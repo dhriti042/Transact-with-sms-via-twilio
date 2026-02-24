@@ -54,7 +54,7 @@ class BankAccount:
 
 # Sample usage
 try:
-    account = BankAccount("U0998XXXXXX97", 10000, "+918431565515") 
+    account = BankAccount("U0998XXXXXX97", 10000, "+91") 
 
 
     try:
